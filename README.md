@@ -8,6 +8,7 @@ Currently Data Analyst at Ambar Soluciones
 📫 How to reach me:
 - [Telegram](https://t.me/harhota)
 - [LinkedIn](https://linkedin.com/in/harhota/)
+- [Email](harhota2@gmail.com)
 
 <!--
 **harhota/harhota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
