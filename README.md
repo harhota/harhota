@@ -1,10 +1,9 @@
 ## About me 👋
+Currently Data Analyst at Ambar Soluciones
 
-## About me 👋
-
-- 🌱 I’m currently learning Data Science at Harbour.Space
-- 💡 Interested in ML/DL
-- ⚡ Passionate about football (soccer) analytics and fantasy football
+- ⚡ Learning Data Science at Harbour.Space
+- 💡 ex-CS teacher: enjoy sharing my knowledge with students
+- ⚽ Passionate about football (soccer) analytics and fantasy football
 
 📫 How to reach me:
 - [Telegram](https://t.me/harhota)
