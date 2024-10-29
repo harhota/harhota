@@ -2,7 +2,7 @@
 Currently Data Analyst at Ambar Soluciones
 
 - ⚡ Learning Data Science at Harbour.Space
-- 💡 ex-CS teacher: enjoy sharing my knowledge with students
+- 💡 CS teacher: enjoy sharing my knowledge with students
 - ⚽ Passionate about football (soccer) analytics and fantasy football
 
 📫 How to reach me:
