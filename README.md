@@ -1,4 +1,4 @@
-## About me 👋
+## About me 
 Currently Data Analyst at Ambar Soluciones
 
 - ⚡ Learning Data Science at Harbour.Space
