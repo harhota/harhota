@@ -1,7 +1,8 @@
 ## About me 
-Currently Data Analyst at Ambar Soluciones
+Currently Methodologist / Product manager at Yandex Lyceum
 
-- ⚡ Learning Data Science at Harbour.Space
+- 🎯 Designing AI educational content 
+- ⚡ Master's in Data Science at Harbour.Space
 - 💡 CS teacher: enjoy sharing my knowledge with students
 - ⚽ Passionate about football (soccer) analytics and fantasy football
 
