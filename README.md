@@ -1,9 +1,9 @@
 ## About me 
 Currently Methodologist / Product manager at Yandex Lyceum
 
-- 🎯 Designing AI educational content 
-- ⚡ Master's in Data Science at Harbour.Space
+- 🎯 Designing AI educational (programming) content
 - 💡 CS teacher: enjoy sharing my knowledge with students
+- ⚡ Master's in Data Science at Harbour.Space
 - ⚽ Passionate about football (soccer) analytics and fantasy football
 
 📫 How to reach me:
